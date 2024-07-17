@@ -1,0 +1,38 @@
+ 
+  .AppContainer {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+
+.navbar {
+  background-color: #1a1a1a;
+  padding: 1rem;
+}
+
+.NavList {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.NavItem {
+  margin: 0 1rem;
+}
+
+.NavLink{
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  &:hover {
+    color: #ff6b6b;
+  }
+}
+
+.Content{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
