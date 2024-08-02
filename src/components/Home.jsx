@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const HomeContainer = styled.div`
+const HomeContainer  styled.div`
   text-align: center;
 `;
 

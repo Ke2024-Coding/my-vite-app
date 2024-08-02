@@ -1,0 +1,28 @@
+<head
+  > <link
+  rel="stylesheet"
+  href="pfad/zu/styles.css"
+  > </head
+  > .home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.const title {
+  font-size: 2rem;
+  color: #333;
+}
+
+.const subtitle {
+  font-size: 1.5rem;
+  color: #666;
+}
+
+.const image {
+  width: 100%;
+  max-width: 400px;
+  margin-top: 20px;
+}
